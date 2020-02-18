@@ -50,9 +50,6 @@ function drawBoard() {
                     </li>`;  
     }
 
-        `<ul>
-            <span class ='empty-folder'>Folder is empty</span>
-        </ul>`;
     return result;
 } 
 
